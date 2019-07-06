@@ -1,3 +1,3 @@
 # Documentación Servicio2
 
-## Aquiva lo que hace el proyecto Servicio2
+## Aqui va lo que hace el proyecto Servicio2
